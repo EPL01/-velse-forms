@@ -1,0 +1,13 @@
+.h1 {
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+.indhold {
+  font-size: medium;
+  color: rgb(5, 81, 19);
+}
+.submit {
+  font-size: large;
+  color: darkred;
+}
